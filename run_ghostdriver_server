@@ -1,0 +1,1 @@
+./ghostdriver/phantomjs-build/phantomjs-1.6.0-development/bin/phantomjs ./ghostdriver/src/main.js

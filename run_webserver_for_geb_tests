@@ -1,0 +1,3 @@
+pushd ghostdriver/examples/local_geb/website/
+ruby app.rb
+popd

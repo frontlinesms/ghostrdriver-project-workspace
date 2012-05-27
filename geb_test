@@ -1,0 +1,3 @@
+pushd ./ghostdriver/examples/local_geb/
+mvn clean test
+popd
