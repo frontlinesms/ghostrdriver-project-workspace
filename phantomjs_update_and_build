@@ -1,2 +1,7 @@
 pushd phantomjs
-git pull origin master
+git checkout ghostdriver-dev
+git pull origin ghostdriver-dev
+./build.sh
+pushd deploy
+./package-linux-dynamic.sh 
+
