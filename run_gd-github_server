@@ -1,2 +1,2 @@
 clear
-./phantomjs/deploy/phantomjs-1.6.0-development/bin/phantomjs ./gd-github/src/main.js 8083
+./phantomjs/deploy/phantomjs-1.6.0-development/bin/phantomjs ./gd-github/src/main.js 8083 | tee gd-server.log

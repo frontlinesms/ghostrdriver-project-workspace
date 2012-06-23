@@ -1,3 +1,3 @@
-pushd ./ghostdriver/examples/local_geb/
+pushd ./geb_test_suite/
 mvn clean test
 popd
